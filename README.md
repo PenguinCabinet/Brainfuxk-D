@@ -16,7 +16,8 @@ dub build
 ```
 rdmd test/test.d
 ```
-[Correct Cases](test/Correct Cases),[Incorrect Cases](test/Incorrect Cases)のテストケースでテストが行われます。
+
+[Correct-Cases](test/Correct-Cases) ,[Incorrect-Cases](test/Incorrect-Cases)のテストケースでテストが行われます。
 
 
 ## 🎫LICENSE
