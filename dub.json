@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"PenguinCabinet"
+	],
+	"copyright": "Copyright 2022, PenguinCabine",
+	"description": "A minimal D application.",
+	"license": "MIT LICENSE",
+	"name": "brainfuxk-d"
+}
