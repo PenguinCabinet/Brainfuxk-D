@@ -12,6 +12,11 @@ D言語で書かれた[Brainfuxk](https://ja.wikipedia.org/wiki/Brainfuck)の処
 ```
 dub build
 ```
+## 🔨使い方
+```
+brainfuxk-d input-brainfuck-sourcecode.bf
+```
+
 ## 📃テスト
 ```
 rdmd test/test.d
