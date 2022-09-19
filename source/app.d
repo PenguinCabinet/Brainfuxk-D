@@ -33,10 +33,11 @@ string program_check(string program){
             e==' '
         ){
             continue;
-        }else{
+        }
+        /*else{
             writefln("ERROR:There is an illegal character in the source code.");
             exit(-1);
-        }
+        }*/
         if(nest<0){
             writefln("ERROR:Incorrect block nesting.");
             exit(-1);
